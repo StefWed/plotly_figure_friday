@@ -1,4 +1,4 @@
-# Figure Friday - weekly data visualization projects by Plotly
+# Figure Friday -<br> weekly data visualization projects by Plotly
 
 #### -- Project Status: [Active]
 
