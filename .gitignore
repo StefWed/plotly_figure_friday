@@ -33,3 +33,6 @@ Thumbs.db
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
+
+# Do not include datasets
+data/
