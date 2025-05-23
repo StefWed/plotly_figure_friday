@@ -9,7 +9,7 @@
 </div>
 
 
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to grow and apply knowledge about creating visualizations using Plotly. Also, insights are shared as well as additional info on when to use specific types of graphs (violine plot) and so on. Figure Friday is organised by Plotly and can be seen here: [Figure Friday](https://community.plotly.com/tag/figure-friday). Every Friday, a new data set and a first plot is shared with the task to improve it.
 
 
 ### Methods Used
@@ -24,22 +24,4 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Project Description
 
-## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages)
-create another "setup.md" file and link to it here*
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
